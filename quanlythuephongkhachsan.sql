@@ -1,0 +1,2 @@
+--File query sql
+--bài tập nhóm môn it09 . ĐỀ 05 Quản lý thuê phòng tại 1 khách sạn
